@@ -13,16 +13,16 @@ If you want to contribute, your help is really appreciated :)
 
 ## Support - PJSIP 2.9+
 
-Using Android API `21`.
+Using Android API `28`.
 Default versions included:
 
-- Android Cmd Tools: `8512546`
-- Android NKD: `r21e`
-- OpenSSL: `1.1.1k` (Uses NDK Level 21)
-- OpenH264: `2.1.0` (Uses NDK Level 21)
+- Android Cmd Tools: `12700392`
+- Android NKD: `r28c`
+- OpenSSL: `1.1.1w` (Uses NDK Level 28)
+- OpenH264: `2.6.0` (Uses NDK Level 28)
 - Opus: `1.3.1`
 - bcg729: `1.1.1`
-- Swig: `4.0.2`
+- Swig: `4.3.1`
 
 ## Legacy support
 
